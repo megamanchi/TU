@@ -1,3 +1,4 @@
+package scotiabank.cl;
 import static org.junit.Assert.*;
 
 import org.junit.Before;
